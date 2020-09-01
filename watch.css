@@ -1,0 +1,48 @@
+.container{
+   
+    margin-left:35%;
+    margin-top:10%;
+    height:300px;
+    width:300px;
+    border-color:#bc1ac5;
+    display:inline-flex;
+    background-color:#060606db;
+    color:#00BCD4;
+    border-radius: 100px;
+	box-shadow: 0px 0px 50px #151414;
+	text-align:center;
+	justify-content:flex-start;
+	padding:15px;
+	font-size:30px;
+	vertical-align:bottom;
+}
+body{
+	background-image:linear-gradient(to right,#f3f0f2,#12efdd);
+}
+#clock{
+	margin-top:110px;
+	margin-left:30px;
+	font-family:'Orbitron',sans-serif;
+	font-size:60px;
+	
+}
+#date{
+	
+	color:#5cd213;
+	margin-left:-225px;
+	font-family:'Orbitron',sans-serif;
+	font-size:40px;
+	
+	
+}
+.facebook ,.google ,.twitter {
+	position:relative;
+	top:230px;
+	left:-65px;
+	height: 60px;
+	width: auto;
+	margin-left: 20px;
+	margin-right: 20px;
+	display: inline-block;
+	vertical-align:bottom;
+}
